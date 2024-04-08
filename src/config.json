@@ -45,6 +45,7 @@
     "satoshilabs.design"
   ],
   "blacklist": [
+    "taikodrop.xyz",
     "metamasksw.azurewebsites.net",
     "talbots.pro",
     "helpmetamaskchromeus.gitbook.io",
